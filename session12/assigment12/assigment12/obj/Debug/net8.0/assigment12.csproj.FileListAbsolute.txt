@@ -1,0 +1,15 @@
+D:\Depi\technical\c#\tasks\session12\assigment12\assigment12\bin\Debug\net8.0\assigment12.exe
+D:\Depi\technical\c#\tasks\session12\assigment12\assigment12\bin\Debug\net8.0\assigment12.deps.json
+D:\Depi\technical\c#\tasks\session12\assigment12\assigment12\bin\Debug\net8.0\assigment12.runtimeconfig.json
+D:\Depi\technical\c#\tasks\session12\assigment12\assigment12\bin\Debug\net8.0\assigment12.dll
+D:\Depi\technical\c#\tasks\session12\assigment12\assigment12\bin\Debug\net8.0\assigment12.pdb
+D:\Depi\technical\c#\tasks\session12\assigment12\assigment12\obj\Debug\net8.0\assigment12.GeneratedMSBuildEditorConfig.editorconfig
+D:\Depi\technical\c#\tasks\session12\assigment12\assigment12\obj\Debug\net8.0\assigment12.AssemblyInfoInputs.cache
+D:\Depi\technical\c#\tasks\session12\assigment12\assigment12\obj\Debug\net8.0\assigment12.AssemblyInfo.cs
+D:\Depi\technical\c#\tasks\session12\assigment12\assigment12\obj\Debug\net8.0\assigment12.csproj.CoreCompileInputs.cache
+D:\Depi\technical\c#\tasks\session12\assigment12\assigment12\obj\Debug\net8.0\assigment12.sourcelink.json
+D:\Depi\technical\c#\tasks\session12\assigment12\assigment12\obj\Debug\net8.0\assigment12.dll
+D:\Depi\technical\c#\tasks\session12\assigment12\assigment12\obj\Debug\net8.0\refint\assigment12.dll
+D:\Depi\technical\c#\tasks\session12\assigment12\assigment12\obj\Debug\net8.0\assigment12.pdb
+D:\Depi\technical\c#\tasks\session12\assigment12\assigment12\obj\Debug\net8.0\assigment12.genruntimeconfig.cache
+D:\Depi\technical\c#\tasks\session12\assigment12\assigment12\obj\Debug\net8.0\ref\assigment12.dll
